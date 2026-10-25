@@ -1,0 +1,3 @@
+# Third-party notices
+
+NATION 360 uses Phaser 3, React, React DOM and their runtime dependencies, subject to their original licenses. Phaser and React are MIT licensed. Full installed dependency license texts are provided in the bundled `licenses/` directory; retain them when redistributing. Development dependencies (Vite, TypeScript, tsx and type definitions) retain their respective package license files when installed with npm. The game artwork is original procedural geometry in the source, not art taken from another game. Optional DM Sans and Outfit web fonts are distributed under the SIL Open Font License through Google Fonts and are not bundled as game assets.
