@@ -1,0 +1,1 @@
+Original user-supplied Build_A_Brighter_Tomorrow.mp3, copied byte-for-byte as build-a-brighter-tomorrow.mp3. No instrumental track was supplied. Gameplay uses the theme at 35% of menu volume if enabled; silence is the default. Rights remain with the original owner.
